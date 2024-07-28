@@ -1,0 +1,9 @@
+{
+  "allowedIps": [],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
